@@ -6,7 +6,7 @@ A partir do momento que for verificado que o funcionário x bateu a meta estipul
 
 >Preview da mensagem recebida
 
-![preview](.teste/preview.PNG)
+![preview](preview.PNG)
 
 ## Bibliotecas utilizadas
 - Pandas
