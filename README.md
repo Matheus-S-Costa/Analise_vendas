@@ -5,7 +5,7 @@ Utilizando python serão lidos todos os dados de 6 tabelas, para verificar se qu
 A partir do momento que for verificado que o funcionário x bateu a meta estipulada, será enviado um SMS para o gerente com a informacao do nome do vendedor e a quantidade de vendas!
 
 >Preview da mensagem recebida
-![preview](.github/preview.PNG)
+![preview](github/preview.PNG)
 
 ## Bibliotecas utilizadas
 - Pandas
